@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on VS code, Iterm2
 - 🌱 I’m currently learning Ansible, Kubernetes, CI/CD
-- Goals 2020: Found a job
+- 🌱 Goals 2020: Found a job
 - ⚡ Fun fact: I love travel !
 
 ## Operating system
