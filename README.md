@@ -12,3 +12,5 @@
 ## Latest blog posts
 
 ## Github Stats
+
+[![Les Stats GitHub de Franck](https://github-readme-stats.vercel.app/api?username=francklafon)](https://github.com/francklafon/github-readme-stats)
